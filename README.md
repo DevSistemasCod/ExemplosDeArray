@@ -12,3 +12,4 @@ Exemplo uso de Array
 Exemplo uso de Array2D 
 
 - Exemplo uso de Array2D - ExemploArray2D
+- Exemplo uso de método com Array2D - ExemploArrayComMetodo2D
