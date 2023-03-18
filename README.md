@@ -2,7 +2,7 @@ Exemplo uso de Array
 
 - Exemplo uso de Array 
 - Exemplo uso de lengrh - ExemploUsoLength
-- Exemplo inicializar Array com conteúdo.
+- Exemplo inicializar Array com conteúdo - ExemploInicializarArray
  
  
  ----------------------------------------
