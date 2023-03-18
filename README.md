@@ -3,6 +3,7 @@ Exemplo uso de Array
 - Exemplo uso de Array 
 - Exemplo uso de lengrh - ExemploUsoLength
 - Exemplo inicializar Array com conteúdo - ExemploInicializarArray
+- Exemplo uso de constante com Array - ExemploUsoConstanteArray
  
  
  ----------------------------------------
