@@ -9,6 +9,12 @@ public class ExemploOperacaoComArray {
 		for (int i = 0; i < array.length; i++) {
 			total = total + array[i];
 		}
+
+                // exemplo for aprimorado				
+// 		for (int i  : array) {
+// 			total = total + i;
+// 		}
+
 		
 		System.out.printf("Total de elementos do array: %d\n", total);
 
