@@ -10,10 +10,10 @@ public class ExemploOperacaoComArray {
 			total = total + array[i];
 		}
 
-                // exemplo for aprimorado				
-// 		for (int i  : array) {
-// 			total = total + i;
-// 		}
+             // exemplo for-each 				
+             // for (int i  : array) {
+             //       total = total + i;
+             // }
 
 		
 		System.out.printf("Total de elementos do array: %d\n", total);
